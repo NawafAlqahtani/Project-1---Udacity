@@ -3,7 +3,7 @@ This project is part of the nandegree program - Data Scientist, the file has a p
 
 ## Project Overview
 
-The Analysis shows when is the best time to visit Seattle, which neighborhood should rent in.
+The Analysis shows when is the best time to visit Seattle, which neighborhood should you rent in.
 
 Packages used:
   1.Numpy.
