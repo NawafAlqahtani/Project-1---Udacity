@@ -11,4 +11,6 @@ Packages used:
   3.Numpy.ma
   4.Matplotlib.
   
- 
+## Medium Blog Post
+
+https://medium.com/@nalqahtani_9715/seattle-airbnb-data-analysis-3b26e745128c
